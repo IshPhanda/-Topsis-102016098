@@ -28,7 +28,7 @@ The below example is for the data have 5 columns.
 
 python program.py InputDataFile Weights Impacts ResultFileName
 
-Example : python Topsis 102016098-data.csv "1,1,1,1,1" "+,-,+,+,+" 102116096-result.csv
+Example : python Topsis 102016098-data.csv "1,1,1,1,1" "+,-,+,+,+" 102016098-result.csv
 
 # Important Points
 
