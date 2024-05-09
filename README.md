@@ -1,6 +1,6 @@
 ## Topsis Python Package
 
-Made By Jatin Thakur (Roll No. 102116096)
+Made By Ish Phanda (Roll No. 102016098)
 
 # Description
 
@@ -16,7 +16,7 @@ Error Handling: The package includes robust error handling to provide clear feed
 
 # Installation
 
-pip install topsis-jatin-102116096
+pip install topsis-102016098
 
 # Usage
 
@@ -28,7 +28,7 @@ The below example is for the data have 5 columns.
 
 python program.py InputDataFile Weights Impacts ResultFileName
 
-Example : python Topsis 102116096-data.csv "1,1,1,1,1" "+,-,+,+,+" 102116096-result.csv
+Example : python Topsis 102016098-data.csv "1,1,1,1,1" "+,-,+,+,+" 102116096-result.csv
 
 # Important Points
 
